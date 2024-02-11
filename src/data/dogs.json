@@ -1,0 +1,158 @@
+[
+    {
+        "image": "https://www.prelovca.sk/sites/default/files/aslpsky_jazvecikovity_duric.png",
+        "breed":"alpský jazvečíkovitý durič"
+    },
+    {
+        "image":"https://www.prelovca.sk/sites/default/files/nemecky_kratkosrsty_stavac.png",
+        "breed":"nemecký krátkosrstý stavač"
+    },
+    {
+        "image":"https://www.prelovca.sk/sites/default/files/nemecky_prepeliciar.png",
+        "breed":"nemecký prepeličiar"
+    },
+    {
+        "image":"https://www.prelovca.sk/sites/default/files/anglicky_kokerspaniel.png",
+        "breed":"anglický kokeršpaniel"
+    },
+    {
+        "image":"https://www.prelovca.sk/sites/default/files/anglicky_seter.png",
+        "breed":"anglický seter"
+    },
+    {
+        "image":"https://www.prelovca.sk/sites/default/files/anglicky_farbiar_-_bloodhound.png",
+        "breed":"anglický farbiar (bloodhound)"
+    },
+    {
+        "image":"https://www.prelovca.sk/sites/default/files/bulterier.png",
+        "breed":"bulteriér"
+    },
+    {
+        "image":"https://www.prelovca.sk/sites/default/files/bavorsky_farbiar.png",
+        "breed":"bavorský farbiar"
+    },
+    {
+        "image":"https://www.prelovca.sk/sites/default/files/hanoversky_farbiar.png",
+        "breed":"hanoverský farbiar"
+    },
+    {
+        "image":"https://www.prelovca.sk/sites/default/files/jazvecik_hladkosrsty.png",
+        "breed":"jazvečík hladkosrstý"
+    },
+    {
+        "image":"https://www.prelovca.sk/sites/default/files/jazvecik_dlhosrsty.png",
+        "breed":"jazvečík dlhosrstý"
+    },
+    {
+        "image":"https://www.prelovca.sk/sites/default/files/jazvecik_hrubosrsty.png",
+        "breed":"jazvečík hrubosrstý"
+    },
+    {
+        "image":"https://www.prelovca.sk/sites/default/files/slovensky_kopov.png",
+        "breed":"slovenský kopov"
+    },
+    {
+        "image":"https://www.prelovca.sk/sites/default/files/weimarsky_kratkosrsty_stavac.png",
+        "breed":"weimarský krátkosrstý stavač"
+    },
+    {
+        "image":"https://www.prelovca.sk/sites/default/files/madarsky_kratkosrsty_stavac_-_vyzla.png",
+        "breed":"maďarský krátkosrstý stavač (vyžla)"
+    },
+    {
+        "image":"https://www.prelovca.sk/sites/default/files/irsky_seter.png",
+        "breed":"írsky seter"
+    },
+    {
+        "image":"https://www.prelovca.sk/sites/default/files/gordon_seter.png",
+        "breed":"gordon seter"
+    },
+    {
+        "image":"https://www.prelovca.sk/sites/default/files/irsky_terier.png",
+        "breed":"írsky teriér"
+    },
+    {
+        "image":"https://www.prelovca.sk/sites/default/files/welshterier.png",
+        "breed":"welshteriér"
+    },
+    {
+        "image":"https://www.prelovca.sk/sites/default/files/jagterier.png",
+        "breed":"jagteriér"
+    },
+    {
+        "image":"https://www.prelovca.sk/sites/default/files/hladkosrsty_foxterier.png",
+        "breed":"hladkosrstý foxteriér"
+    },
+    {
+        "image":"https://www.prelovca.sk/sites/default/files/hrubosrsty_foxterier.png",
+        "breed":"hrubosrstý foxteriér"
+    },
+    {
+        "image":"https://www.prelovca.sk/sites/default/files/borderterier.png",
+        "breed":"borderteriér"
+    },
+    {
+        "image":"https://www.prelovca.sk/sites/default/files/jack_russel_terier.png",
+        "breed":"jack russel teriér"
+    },
+    {
+        "image":"https://www.prelovca.sk/sites/default/files/parson_jack_russel_terier.png",
+        "breed":"parson jack russel teriér"
+    },
+    {
+        "image":"https://www.prelovca.sk/sites/default/files/cesky_terier.png",
+        "breed":"český teriér"
+    },
+    {
+        "image":"https://www.prelovca.sk/sites/default/files/cesky_fuzac.png",
+        "breed":"český fúzač"
+    },
+    {
+        "image":"https://www.prelovca.sk/sites/default/files/pointer.png",
+        "breed":"pointer"
+    },
+    {
+        "image":"https://www.prelovca.sk/sites/default/files/pudelpointer.png",
+        "breed":"pudelpointer"
+    },
+    {
+        "image":"https://www.prelovca.sk/sites/default/files/slovensky_hrubosrsty_stavac.png",
+        "breed":"slovenský hrubosrstý stavač"
+    },
+    {
+        "image":"https://www.prelovca.sk/sites/default/files/stajersky_duric.png",
+        "breed":"štajerský durič"
+    },
+    {
+        "image":"https://www.prelovca.sk/sites/default/files/beagle.png",
+        "breed":"beagle"
+    },
+    {
+        "image":"https://www.prelovca.sk/sites/default/files/vychodosibirska_lajka.png",
+        "breed":"východosibírska lajka"
+    },
+    {
+        "image":"https://www.prelovca.sk/sites/default/files/ruskoeuropska_lajka.png",
+        "breed":"ruskoeurópska lajka"
+    },
+    {
+        "image":"https://www.prelovca.sk/sites/default/files/karelsky_medvedi_pes.png",
+        "breed":"karelský medvedí pes"
+    },
+    {
+        "image":"https://www.prelovca.sk/sites/default/files/anglicky_springerspaniel.png",
+        "breed":"anglický špringeršpaniel"
+    },
+    {
+        "image":"https://www.prelovca.sk/sites/default/files/welssky_springerspaniel.png",
+        "breed":"welšský špringeršpaniel"
+    },
+    {
+        "image":"https://www.prelovca.sk/sites/default/files/zlaty_retriever.png",
+        "breed":"zlatý retriever"
+    },
+    {
+        "image":"https://www.prelovca.sk/sites/default/files/labradorsky_retriever.png",
+        "breed":"labradorský retriever"
+    }
+]
