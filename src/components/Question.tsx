@@ -37,7 +37,6 @@ const handleOptionClick = (option:string) => {
       <div class="grid gap-2.5 mt-1.5">
         <div
           class="grid gap-2"
-          tabindex="0"
           style="outline: none;"
         >
           {options.map((option, index) => (

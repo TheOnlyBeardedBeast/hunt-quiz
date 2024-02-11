@@ -1,5 +1,4 @@
-import { useState } from 'preact/hooks';
-import { ToastContainer, toast } from 'react-toastify';
+import { ToastContainer } from 'react-toastify';
 import './app.css'
 import { Quiz } from './components/Quiz';
 import 'react-toastify/dist/ReactToastify.css';
